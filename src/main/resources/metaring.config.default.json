@@ -1,0 +1,5 @@
+{
+  "email" : {
+    "controller" : "com.metaring.framework.ext.spring.boot.email.SpringBootEmailController"
+  }
+}
