@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>framework-ext-spring-boot-email</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.5-SNAPSHOT</version>
 
     <name>MetaRing Spring Boot Email Extension</name>
     <description>Spring Boot Email Extension of the MetaRing Framework</description>
